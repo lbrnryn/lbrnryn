@@ -1,4 +1,4 @@
-Hi 👋 My name is Ryan Libron
+Hi 👋 my name is Ryan Libron
 ============================
 
 Web Developer and Educator
