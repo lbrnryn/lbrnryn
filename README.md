@@ -17,3 +17,5 @@ Have knowledge with:
 [![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=lbrnryn&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lbrnryn&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Codewars](https://github.r2v.ch/codewars?user=lbrnryn&name=true&top_languages=true&hide_clan=true)
